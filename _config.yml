@@ -1,11 +1,11 @@
 # Site settings
 author: Makoa DeVincent
-title: 
+title: Makoa's Software Engineering Journey
 header-img: img/home-bg.png
 email: makoadevincent@gmail.com
 copyright_name: Makoa DeVincent
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MakoaDeVincent
