@@ -46,4 +46,5 @@ in view/films/index.html.erb
 ```
 This is the form we set up to accept the :search param that we use in the model, to find what the user is searching for.
 
-![https://hnet.com/video-to-gif/viewimage/20210111-13-TjdVUcW9bzUkVqCL-5ytaou-HNET](http://)
+Here is a link of a gif to see the search bar in action!
+[https://hnet.com/video-to-gif/viewimage/20210111-13-TjdVUcW9bzUkVqCL-5ytaou-HNET](http://)
