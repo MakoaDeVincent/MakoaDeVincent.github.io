@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "35mm app Search function"
-date:       2021-01-12 02:47:13 +0000
+date:       2021-01-11 21:47:14 -0500
 permalink:  35mm_app_search_function
 ---
 
@@ -46,4 +46,4 @@ in view/films/index.html.erb
 ```
 This is the form we set up to accept the :search param that we use in the model, to find what the user is searching for.
 
-![](https://hnet.com/video-to-gif/viewimage/20210111-13-TjdVUcW9bzUkVqCL-5ytaou-HNET)
+![https://hnet.com/video-to-gif/viewimage/20210111-13-TjdVUcW9bzUkVqCL-5ytaou-HNET](http://)
